@@ -20,3 +20,8 @@ The SQL Query Bot is a web-based application that allows users to input natural 
    python -m venv venv
    .\venv\Scripts\activate
 
+## Getting Help
+If you encounter issues or have questions, open an issue on this GitHub repository or contact the Support Team at anonymous@example.com.
+
+## Contributing
+Contributions are welcome! Fork this repository, make changes, and submit a pull request. Please follow the coding style in `DESIGN_DOC.md` and update documentation as needed.
