@@ -61,6 +61,10 @@ The SQL Query Bot is a web application that converts natural language queries in
 - Add authentication for the `/query` endpoint.
 - Implement caching for frequent queries.
 - Enhance Gradio UI with styling or additional features (e.g., query history, error alerts).
+- 
+## Version History
+- **v1.0.0 (Initial Release)**: Basic SQL Query Bot with terminal, FastAPI, and Gradio interfaces.
+- **Future Updates**: Authentication, caching, UI improvements (see Future Enhancements).
 
 ## Contact
 For technical questions, contact Support Team at nithi.kkv@gmail.com.
