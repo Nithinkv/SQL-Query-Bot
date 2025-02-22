@@ -1,0 +1,14 @@
+# Ignore environment files
+.env
+
+# Ignore database file (if you don’t want to commit it)
+combined.db
+
+# Ignore Python file artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environment
+venv/
